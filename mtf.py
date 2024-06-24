@@ -32,7 +32,7 @@ import numpy as np
 import cv2 as cv2
 import math as math
 
-from PIL import Image, ImageOps
+from PIL import Image
 from scipy import interpolate
 from scipy.fft import fft
 from enum import Enum
